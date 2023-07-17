@@ -2,7 +2,6 @@
 /**
 *main - Entry point
 *Description: 'puts function'
-*@parameter: Programming is like building a multilingual puzzle
 *Return: Always 0 (Success)
 */
 int main(void)
