@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
-*main -entry point
-*return -entry point
-*retun: always 0 (sucess)
+*main - Entry point
+*Description: 'puts function'
+*@parameter: Programming is like building a multilingual puzzle
+*Return: Always 0 (Success)
 */
 int main(void)
 {
