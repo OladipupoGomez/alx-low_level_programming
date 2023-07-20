@@ -1,12 +1,9 @@
 #include <stdio.h>
-
-	/**
-	 * main - fibonacci <3
-	 *
-	 * Description: 'main - Prints first 50 Fibonacci numbers'
-	 *
-	 * Return:(Success)
-	 */
+/**
+*main - Entry point
+*Description: 'fibonaci 3'
+*Return: Always 0 (Success)
+*/
 
 	int main(void)
 	{
