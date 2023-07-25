@@ -1,15 +1,13 @@
 #include "main.h"
 
 /**
-*_puts - function that prints a string
-*@str: character to be printed
-* Return: string
-*
-*/
+ * _puts - prints a string, followed by a new line.
+ * @str: input string.
+ * Return: no return.
+ */
 
 void _puts(char *str)
 {
-
 	int count = 0;
 
 	while (count >= 0)
@@ -22,5 +20,4 @@ void _puts(char *str)
 		_putchar(str[count]);
 		count++;
 	}
-
 }
